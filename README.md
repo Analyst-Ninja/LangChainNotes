@@ -1,4 +1,4 @@
-# Learn LangChain - V2
+# Learn LangChain
 
 Overview, Tutorial, and Examples of [LangChain](https://langchain.readthedocs.io/en/latest/)
 
